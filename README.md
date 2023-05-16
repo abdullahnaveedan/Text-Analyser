@@ -5,6 +5,7 @@ Text Analyser is an DJango based application that get your text and perform the 
 * Remove ExtraSpaces
 * Remove Extra Lines
 * Count Charecters
+
 Here are the Features of this application.
 # How to Run
 You need to install the latest version of:
