@@ -10,5 +10,6 @@ Here are the Features of this application.
 You need to install the latest version of:
 * Python
 * DJango
-Open cmd and run command "python manage.py runserver"
+
+Open cmd and run command "python manage.py runserver".
 After this copy the web address and paste in web browser and test the application.
