@@ -1,16 +1,36 @@
-# Text Analyser
-Text Analyser is an DJango based application that get your text and perform the following operations:
-* Text Capatilized
+# Text Analyzer
+
+Text Analyzer is a Django-based application designed to perform various text manipulation operations on input text. The following operations are supported:
+
+* Capitalize Text
 * Remove Punctuation
-* Remove ExtraSpaces
+* Remove Extra Spaces
 * Remove Extra Lines
-* Count Charecters
+* Count Characters
 
-Here are the Features of this application.
-# How to Run
-You need to install the latest version of:
-* Python
-* DJango
+## Features
 
-Open cmd and run command "python manage.py runserver".
-After this copy the web address and paste in web browser and test the application.
+This application offers the following features:
+
+- Capitalize the input text.
+- Eliminate punctuation from the text.
+- Trim extra spaces.
+- Remove additional lines.
+- Count the number of characters in the text.
+
+## How to Run
+
+To run the Text Analyzer, you need to have the latest versions of:
+
+- Python
+- Django
+
+Follow these steps:
+
+1. Open the command prompt.
+2. Navigate to the project directory.
+3. Run the command: `python manage.py runserver`
+4. Copy the provided web address and paste it into your web browser.
+5. Test the application by inputting text and selecting desired operations.
+
+Please note that this guide assumes you have a basic understanding of Python and Django.
